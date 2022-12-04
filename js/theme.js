@@ -3,7 +3,7 @@
 
     // Created on   : 29/11/2019.
     // Theme Name   : Jasmines Jamaican Rum Cake Template
-    // Description  : Olga and Asquith - Jasmines Jamaican Rum Cake Template.
+    // Description  : Ginger Cake - Jasmines Jamaican Rum Cake Template.
     // Version      : 1.1.
     // Author       : @mmxxdynamics.
     // Designed By  : @mmxxdynamics.
